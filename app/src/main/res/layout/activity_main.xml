@@ -24,7 +24,7 @@
         android:layout_width="165dp"
         android:layout_height="60dp"
         android:layout_marginStart="120dp"
-        android:layout_marginTop="216dp"
+        android:layout_marginTop="188dp"
         android:background="#BB86FC"
         android:text="點它"
         android:textStyle="bold"
