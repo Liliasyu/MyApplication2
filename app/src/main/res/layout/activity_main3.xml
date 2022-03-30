@@ -10,7 +10,11 @@
         android:id="@+id/textView2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="TextView"
-        tools:layout_editor_absoluteX="152dp"
-        tools:layout_editor_absoluteY="272dp" />
+        android:layout_marginStart="76dp"
+        android:layout_marginTop="284dp"
+        android:text="so that"
+        android:textColor="#B388FF"
+        android:textSize="96sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>
