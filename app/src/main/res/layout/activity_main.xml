@@ -20,26 +20,6 @@
         app:layout_constraintVertical_bias="0.16" />
 
     <Button
-        android:id="@+id/button"
-        android:layout_width="214dp"
-        android:layout_height="91dp"
-        android:layout_marginStart="96dp"
-        android:layout_marginTop="216dp"
-        android:background="#81BAB055"
-        android:backgroundTint="#913F3F"
-        android:text="點我"
-        android:textColor="#03A9F4"
-        android:textColorHighlight="#000000"
-        android:textColorHint="#FF1717"
-        android:textColorLink="#EDD7D7"
-        android:textSize="20sp"
-        android:textStyle="bold"
-        app:iconTint="#AA4141"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:rippleColor="#0B0A0A" />
-
-    <Button
         android:id="@+id/button2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
