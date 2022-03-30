@@ -4,17 +4,15 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity3">
+    tools:context=".doit">
 
-    <TextView
-        android:id="@+id/textView2"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginStart="64dp"
-        android:layout_marginTop="216dp"
-        android:text="so that"
-        android:textColor="#B388FF"
-        android:textSize="96sp"
+    <Button
+        android:id="@+id/button"
+        android:layout_width="43dp"
+        android:layout_height="482dp"
+        android:layout_marginStart="184dp"
+        android:layout_marginTop="180dp"
+        android:text="Button"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>
