@@ -21,15 +21,15 @@
 
     <Button
         android:id="@+id/button2"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginStart="156dp"
-        android:layout_marginTop="340dp"
-        android:background="#9E4CAF50"
+        android:layout_width="165dp"
+        android:layout_height="60dp"
+        android:layout_marginStart="120dp"
+        android:layout_marginTop="216dp"
+        android:background="#BB86FC"
         android:text="點它"
         android:textStyle="bold"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:rippleColor="#9F4949" />
+        app:rippleColor="#333" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

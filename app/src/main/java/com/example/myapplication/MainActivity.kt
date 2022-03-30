@@ -12,7 +12,6 @@ class MainActivity : AppCompatActivity() {
         var myii:TextView=findViewById<TextView>(R.id.ii)
         myii.text="ok i saw you"
 
-        var butt=findViewById<Button>(R.id.button)
         var butt2=findViewById<Button>(R.id.button2)
     }
 }
